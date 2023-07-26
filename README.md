@@ -22,7 +22,9 @@ Shorts videos, though entertaining at times, can often disrupt your YouTube expe
 
 ## Download: 📲
 
-[Link_to_apk]
+# 👉[Click here to download for free: No Shorts.apk](https://github.com/NoShorts1337/NoShorts/raw/main/No%20Shorts.apk)👈
+
+Download the No Shorts App from the link above.
 
 ## Disclaimer: Please Read Carefully Before Using the "No Shorts" App 📝🛡️🚨
 
