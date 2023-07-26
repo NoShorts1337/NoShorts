@@ -1,6 +1,4 @@
-# No Shorts App for YouTube 😎🚫📹
-
-## Description 📱💡🚀
+# YouTube NO SHORTS 😎🚫📹
 Tired of those annoying Shorts videos popping up on your YouTube feed? Look no further! Introducing the "No Shorts" app, the ultimate solution to enhance your YouTube experience. This incredible Android application empowers you to enjoy YouTube without any Shorts videos disturbing your viewing pleasure. Get ready for an uninterrupted and exhilarating YouTube journey!
 
 ![Screenshot 2023-07-26 17 18 05](https://github.com/NoShorts1337/test/assets/140618292/16aef504-f77c-4ea3-b44e-90c904dd5b31)
@@ -18,13 +16,13 @@ Tired of those annoying Shorts videos popping up on your YouTube feed? Look no f
 3. **Bye, Shorts!** Once activated, the "No Shorts" app will work its magic and keep those pesky Shorts at bay, giving you a Shorts-free YouTube zone!
 
 ## Why Shorts Are No Good for You 🚫🤔
-Shorts videos, though entertaining at times, can often disrupt your YouTube experience. They tend to interrupt your content flow, making it difficult to enjoy full-length videos. Moreover, they might show content that isn't relevant to your interests, leading to a less satisfying viewing session. With the "No Shorts" app, you take back control of your YouTube journey, enjoying a more focused and personalized content exploration.
+Shorts, the brief, attention-grabbing videos that have inundated YouTube, may seem harmless at first glance, but they come with a host of negative consequences. From a mental standpoint, constant exposure to shorts can lead to a decrease in attention span and a reliance on instant gratification. These short bursts of content can hinder our ability to focus on longer, more meaningful videos and have a detrimental impact on our cognitive abilities.
+
+Moreover, the rise of shorts has changed the landscape of YouTube, leaving creators and viewers longing for the platform's golden era. In the past, YouTube was a hub for diverse, in-depth content that catered to a variety of interests. However, the flood of shorts has shifted the focus towards superficial and sensational content and a huge waste of time.
 
 ## Download: 📲
 
 # 👉[Click here to download for free: No Shorts.apk](https://github.com/NoShorts1337/NoShorts/raw/main/No%20Shorts.apk)👈
-
-Download the No Shorts App from the link above.
 
 ## Disclaimer: Please Read Carefully Before Using the "No Shorts" App 📝🛡️🚨
 
@@ -34,7 +32,7 @@ The "No Shorts" app is provided on an "as-is" basis without warranties or guaran
 
 2. The developer does not warrant the accuracy, completeness, or reliability of the app's functionality, and usage is at your own risk.
 
-3. The "No Shorts" app is an independent project and not affiliated with YouTube, Google, or any other third-party service.
+3. The "No Shorts" app is an independent project and **not affiliated with YouTube, Google, or any other third-party service.**
 
 4. The developer disclaims any responsibility for the content accessed through the app or any consequences resulting from such content.
 
@@ -54,7 +52,7 @@ The "No Shorts" app is provided on an "as-is" basis without warranties or guaran
 
 By downloading, installing, or using the "No Shorts" app, you agree to be bound by this disclaimer. If you do not agree with any part of this disclaimer, do not use the app.
 
-Please consult legal advice if you have any concerns regarding the use of the "No Shorts" app. The developer shall not be liable for any disputes or legal actions related to the app.
+The developer shall not be liable for any disputes or legal actions related to the app.
 
 For support or inquiries, contact our team at no.shorts1337@protonmail.com.
 
